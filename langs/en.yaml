@@ -1,0 +1,16 @@
+# Language name in their native
+language: "English 🇺🇲"
+
+# name of people(s) who worked on this translation
+authors: '@customuser'
+
+# languages / strings
+only_p: '`This command is only for private.`'
+only_a: '`You're not admin.`'
+only_g:  '`This command can only be used in groups.`'
+only_c:  '`This command can only be used in channels.`'
+chk_perm: '`You need {}.admin rights to perform this command`'
+
+not_found: "`No results found!`"
+
+
